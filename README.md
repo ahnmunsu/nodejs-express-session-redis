@@ -28,3 +28,8 @@ CONTAINER ID        IMAGE                                   COMMAND             
 947de2942a53        ahnmunsu/nodejs-express-session-redis   "docker-entrypoint.s…"   About an hour ago   Up About an hour    0.0.0.0:3000->3000/tcp   unruffled_burnell
 ```
 
+
+References  
+*  https://codeforgeek.com/manage-session-using-node-js-express-4/
+*  https://nodejs.org/ko/docs/guides/nodejs-docker-webapp/
+*  https://kb.objectrocket.com/redis/how-to-install-redis-on-ubuntu-using-docker-505

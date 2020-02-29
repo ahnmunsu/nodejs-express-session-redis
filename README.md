@@ -1,5 +1,6 @@
 # nodejs-express-session-redis
-Management session using Node.js, Express and Redis
+Management session using Node.js, Express and Redis  
+Redis를 세션 저장소로 하는 인증 서버를 Node.js와 Express로 구현한 예제이다.  
 
 먼저 docker를 설치한다.  
 ```
